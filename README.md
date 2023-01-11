@@ -5,8 +5,8 @@
 
 ### Links and Resources
 - Find the capital of a country:
-  https://capital-finder-weld.vercel.app/api/capital_finder?name=`<country name>`
+  https://serverless-burmpf.vercel.app/api/capital_finder?country=`<country name>`
 - Find the country by its capital:
-  https://capital-finder-weld.vercel.app/api/capital_finder?capital=`<capital name>`
+  https://serverless-burmpf.vercel.app/api/capital_finder?captial=`<capital name>`
 
 
